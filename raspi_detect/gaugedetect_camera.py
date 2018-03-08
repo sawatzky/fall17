@@ -2,6 +2,7 @@
 # uncomment cv2.imshow and cv2.waitkey to see detected region, keystroke to continue
 # ctrl-c at terminal to end process
 # pictures saved in gaugepics/
+# $ python gaugedetect_camera.py
 import cv2
 import os
 import time
